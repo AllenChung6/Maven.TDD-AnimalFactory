@@ -13,6 +13,7 @@ public abstract class Mammal implements Animal {
     private ArrayList<Food> eatenMeals;
     private String name;
     private Date birthDate;
+    private String expected;
 
     public Mammal(String name, Date birthDate, Integer id) {
         this.name = name;
