@@ -4,7 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 import rocks.zipcodewilmington.animals.Cat;
 import rocks.zipcodewilmington.animals.Dog;
-import rocks.zipcodewilmington.AnimalFactoryTest;
 import rocks.zipcodewilmington.animals.animal_creation.AnimalFactory;
 
 
